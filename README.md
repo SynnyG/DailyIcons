@@ -35,6 +35,10 @@
 
 <p>2) It must have the following file structure :</p>
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p>Your Theme DailyIcons.theme/</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /Bundles</p>
@@ -53,7 +57,11 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /iphone@3x (folder that must contain 31 png for iPhone 6 Plus/6S Plus, each one for one day of the month)</p>
 
-<p>Here you have a choice: include some defaults icons as you usually do (I mean same names) or include nothing, but the user will have blank Calendar's icons until a refresh is done !</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>At the root of com.apple.mobilecal folder you have a choice: include some defaults icons as you usually do (I mean same names) or include nothing, but the user will have blank Calendar's icons until a refresh is done !</p>
 
 <p>Each .png files placed into the devices folders (ipad, ipad@2x, iphone@2x, iphone@3x) must be named as 1.png, 2.png, 31.png, etc... The number corresponding to the day of the month. So you have certainly understood that you have to do 31.png for each supported devices ! If you don't want to support iPad, simply don't create the folders and the png files associated !</p>
 
