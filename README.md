@@ -71,7 +71,7 @@
 
 <h1><ins>More to come :</ins></h1>
 
-<p>Support for App Switcher, Spotlight, Settings icons. You will have nothing to do as DailyIcons will create theme from one of the existing .png ;)</p>
+<p>Support for App Switcher, Spotlight, Settings icons. You will have nothing to do as DailyIcons will create them from one of the existing .png ;)</p>
 
 <p>Support for others Calendar applications</p>
 
