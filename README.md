@@ -79,6 +79,8 @@
 
 <p>Developer of DailyIcons. Don't forget to follow me on Twitter for news, app giveaway, etc... at @SynnyG_R ;) !</p>
 
+<p>&nbsp;</p>
+
 <p>If you have any issue or suggestion, please contact me via the Cydia's contact form. I will reply to you as soon as possible !</p>
 
 <p>&nbsp;</p>
