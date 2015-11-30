@@ -60,7 +60,7 @@
 
 <p>At the root of com.apple.mobilecal folder you have a choice: include some defaults icons as you usually do (I mean same names) or include nothing, but the user will have blank Calendar's icons until a refresh is done !</p>
 
-<p>Each .png files placed into the devices folders (ipad, ipad@2x, iphone@2x, iphone@3x) must be named as 1.png, 2.png, 31.png, etc... The number corresponding to the day of the month. So you have certainly understood that you have to do 31.png for each supported devices ! If you don't want to support iPad, simply don't create the folders and the png files associated !</p>
+<p>Each .png files placed into the devices folders (ipad, ipad@2x, iphone@2x, iphone@3x) must be named as 01.png, 02.png, 31.png, etc... The number corresponding to the day of the month (for days below 10, simply put a 0 first as 01, 02, 03, etc...). So you have certainly understood that you have to do 31.png for each supported devices ! If you don't want to support iPad, simply don't create the folders and the png files associated !</p>
 
 <p>If you want concrete examples, go to the /Library/Themes folder and look at the default included themes (Default DailyIcons.theme and Default 2nd DailyIcons.theme). I will soon publish a download link for them !</p>
 
