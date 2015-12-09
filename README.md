@@ -1,7 +1,7 @@
 # DailyIcons
 <p><strong>DailyIcons</strong> is a free application developped for Cydia users that allow you to change your Calendar's icons themes every day, allowing you to create wonderful setup on your iDevice !</p>
 
-<p>Two DailyIcons theme are included by default with the tweak (you can find them at /Library/Application Support/Default DailyIcons and Default 2nd DailyIcons. They have been created by my friend, a talented theme maker called Franchitouch. Big thanks to him ;)</p>
+<p>Two DailyIcons theme are included by default with the tweak (you can find them at /Library/Application Support/DailyIcons/Default DailyIcons and Default 2nd DailyIcons. They have been created by my friend, a talented theme maker called Franchitouch. Big thanks to him ;)</p>
 
 <p>See instructions below for how to use it and for creating your own themes.</p>
 
