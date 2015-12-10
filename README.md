@@ -43,6 +43,8 @@
 
 <p>&nbsp;</p>
 
+<p>Actually, the icons are shown with an offset of two pixels in addition (almost invisible to naked eyes). To solve this, you can create your icons with a resolution of 178 pixels and put 2 pixels of transparency all around of it (for having a png of 180x180 pixels). Thanks to that, your icons will have the same size as the others on the SpringBoard</p>
+
 <p>&nbsp;</p>
 
 <p>If you want concrete examples, go to the /Library/Application Support/DailyIcons folder and look at the default included themes (Default DailyIcons and Default 2nd DailyIcons). I will soon publish a download link for you to have a template for creating your own theme easily !</p>
